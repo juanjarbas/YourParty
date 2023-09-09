@@ -54,19 +54,23 @@ O "YourParty" é um site dedicado à organização de eventos e festas, oferecen
 ## Capturas de Tela
 
 ## HOME DO YOURPARTY
-![image](https://github.com/juanjarbas/yourparty/assets/97977703/88220361-59e9-4217-86df-0432c75a4f70)
+![image](https://github.com/juanjarbas/YourParty/assets/97977703/0a629afc-f697-496d-b70b-73ae32a99361)
+
 
 *AREA DA EMPRESA - LOGIN* 
-![image](https://github.com/juanjarbas/yourparty/assets/97977703/9dc1fd66-783d-4ddb-b222-30c43d087012)
+![image](https://github.com/juanjarbas/YourParty/assets/97977703/f1e5d0ce-c507-46f1-a7f9-c52c717bde2f)
+
 
 ## HOME EMPRESA
-![image](https://github.com/juanjarbas/yourparty/assets/97977703/f424bc60-90a6-4517-8519-1cdb85998a2b)
+![image](https://github.com/juanjarbas/YourParty/assets/97977703/ee7644c6-e456-40f1-af76-cc108d830c30)
+
 
 *ÁREA DO CLIENTE - LOGIN*
 ## LOGIN CLIENTE
-![image](https://github.com/juanjarbas/yourparty/assets/97977703/b7efcb6f-a12e-4b6f-af0b-ab99ca576bde)
+![image](https://github.com/juanjarbas/YourParty/assets/97977703/202d0a1f-b747-4625-9da7-a0c70c1c1fd4)
 
 ## HOME DO CLIENTE:
-![image](https://github.com/juanjarbas/yourparty/assets/97977703/07666657-f688-4f29-9ce0-612ede6edd42)
+![image](https://github.com/juanjarbas/YourParty/assets/97977703/05102a82-6580-4ae9-8097-65b1ce0ae7b0)
+
 
 ##
